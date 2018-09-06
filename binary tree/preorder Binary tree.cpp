@@ -23,7 +23,7 @@ node* buildTree()
     int d;
     cin>>d;
 
-    if(d == -1)
+    if(d == -1) // don't make a node for -1
     return NULL;
 
     node *root = new node(d);
@@ -34,7 +34,7 @@ node* buildTree()
 
 void printTree(node *root)
 {
-    if(root == NULL)
+    if(root == NULL)    // return towards parent from leaf
     return;
 
     cout<<root->data<<" ";
