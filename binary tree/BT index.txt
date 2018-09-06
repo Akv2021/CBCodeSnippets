@@ -1,0 +1,2 @@
+1. Preorder i/p & traversal					23350
+2. 
