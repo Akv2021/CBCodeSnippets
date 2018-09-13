@@ -28,3 +28,7 @@ https://hack.codingblocks.com/contests/c/424
 55 = crux 3
 49 = crux 2
 29 = crux 1
+
+Contest 1- Beginners - https://hack.codingblocks.com/contests/c/509
+Contest 2 - Data Structures in C++ - https://hack.codingblocks.com/contests/c/511
+Contest 3 - Algorithms - https://hack.codingblocks.com/contests/c/512
